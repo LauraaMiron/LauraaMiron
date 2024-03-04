@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OnlineMeditationApp**
 
-- 🌱 I’m currently learning **Unity,C#,Ai Facial Recognision**
+- 🌱 I’m currently learning **Unity,C#,AI Facial Recognision**
 
 - 📫 How to reach me **miron_laura19911@yahoo.com**
 
