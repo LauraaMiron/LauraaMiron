@@ -3,13 +3,12 @@
 <h3 align="center">A passionate developer from Romania</h3>
 
 
-- 🔭 I’m currently working on **OnlineMeditationApp**
+- 🔭 I’m currently working on **OnlineTutoringApp**
 
-- 🌱 I’m currently learning **Unity,C#,Java**
+- 🌱 I’m currently learning **React,C#,Java**
 
 - 📫 How to reach me **miron_laura19911@yahoo.com**
 
-- ⚡ Fun fact **I am a dancer and a painter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
